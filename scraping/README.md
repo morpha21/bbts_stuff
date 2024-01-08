@@ -33,7 +33,7 @@ O script `scraping/main.py` pode ser executado regularmente, por exemplo, por um
 job.
 
 
-#### PS:
+## PS:
 Eu não soube escolher entre inglês e português para nomes de variáveis, módulos e 
 arquivos. Pensei em inglês por boa prática, e em português pelo contexto no qual está 
 inserido o projeto, pois este talvez não faça sentido para pessoas não brasileiras. 

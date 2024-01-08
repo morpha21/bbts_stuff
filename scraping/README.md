@@ -31,3 +31,13 @@ privacidade, os arquivos costam em `.gitignore`. São eles:
 
 O script `scraping/main.py` pode ser executado regularmente, por exemplo, por um cron 
 job.
+
+
+#### PS:
+Eu não soube escolher entre inglês e português para nomes de variáveis, módulos e 
+arquivos. Pensei em inglês por boa prática, e em português pelo contexto no qual está 
+inserido o projeto, pois este talvez não faça sentido para pessoas não brasileiras. 
+
+Na dúvida, acabei não decidindo e só terminando o programa para vê-lo funcionar. Ainda 
+vou padronizar os nomes de variáveis, pacotes e módulos; adicionar comentários; e 
+refatorar o código, para melhorar a legibilidade.

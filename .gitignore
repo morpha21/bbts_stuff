@@ -1,2 +1,3 @@
 scraping/.bot_token
 scraping/.chat_id
+scraping/datatools/__pycache__/

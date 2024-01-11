@@ -2,6 +2,7 @@ import requests
 
 
 def send(message):
+	"""Sends a message to a telegram user through a telegram bot"""
 	bot_token = ''
 	chat_id = ''
 
